@@ -7,7 +7,7 @@ json rpc http server based on jsonrpsee, with PostgreSQL integrated
 DATABASE_URL="postgresql://solana:jw8s0F4@127.0.0.1/solana"
 HOST="127.0.0.1"
 PORT="3000"
-cargo run --bin jsonrpsee-server-template
+cargo run --bin jsonrpsee-eclipse-verify
 ```
 
 ## client
