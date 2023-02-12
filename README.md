@@ -1,4 +1,4 @@
-# jsonrpsee-server-template
+# jsonrpsee-eclipse-verify
 json rpc http server based on jsonrpsee, with PostgreSQL integrated
 
 # usage
